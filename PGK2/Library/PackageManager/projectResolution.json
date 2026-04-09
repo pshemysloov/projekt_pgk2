@@ -89,6 +89,16 @@
       "source": "registry",
       "testable": false
     },
+    "com.unity.cinemachine@2.10.7": {
+      "name": "com.unity.cinemachine",
+      "displayName": "Cinemachine",
+      "resolvedPath": "C:\\Unity projekty\\projekt_pgk2\\PGK2\\Library\\PackageCache\\com.unity.cinemachine@631385387c5a",
+      "fingerprint": "631385387c5a6b317ceb9e4a4687ee55bdaa3565",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "2.10.7",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.collab-proxy@2.11.4": {
       "name": "com.unity.collab-proxy",
       "displayName": "Unity Version Control",
